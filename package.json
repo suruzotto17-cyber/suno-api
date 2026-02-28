@@ -1,5 +1,8 @@
 {
   "name": "suno-api",
+  "engines": {
+  "node": "18.x"
+},
   "description": "Use API to call the music generation service of suno.ai, and easily integrate it into agents like GPTs.",
   "author": {
     "name": "gcui.ai",
